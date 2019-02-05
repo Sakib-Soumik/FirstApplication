@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="textview_example">TEXTVIEW EXAMPLE WITH string.xml</string>
+    <string name="button">button</string>
+    <string name="text_hint">Enter string</string>
+    <string name="checkbox">checkbox</string>
+    <string name="radiobutton">radiobutton</string>
+</resources>
